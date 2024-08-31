@@ -2,8 +2,7 @@
 
 Visualize local git commits from the command line - built with go
 
-- my august commits
-  ![git visualizer](./git-visualizer)
+![git visualizer](./git-visualizer)
 
 ## run locally
 
