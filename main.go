@@ -12,7 +12,8 @@ func main() {
 	flag.Parse()
 
 	if folder != "" {
-		Scan(folder)
+		scan(folder)
 		return
 	}
+	stats(email)
 }
